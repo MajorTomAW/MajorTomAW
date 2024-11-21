@@ -1,7 +1,7 @@
 Hi,
 I like developing plugins for Unreal Engine that both can help for runtime features but also extend the editor.
 
-[Enhanced Online Sessions Plugin](https://github.com/MajorTomAW/EnhancedOnlineSessions)
+Currently working on: [Gameplay Playsets Plugin](https://github.com/MajorTomAW/GameplayPlayset)
 
 ![Stats](https://github-stats-alpha.vercel.app/api/?username=majortomaw "Stats")
 

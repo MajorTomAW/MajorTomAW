@@ -49,3 +49,5 @@
 >48: Developing for the Oculus Rift as the primary camera method.  
 >49: Testing with a narrow demographic.  
 >50: Writing a general "constraint solver" that optimizes for the camera.
+
+I couldn't find the link to this resource anymore so here is just the plain list.

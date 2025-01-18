@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Hi! I like working with the Unreal Engine and all the cool things you can do with it.
+🔭 Hi! I like working with the Unreal Engine and all the cool things you can do with it.  
+📝 Check out [this](RESSOURCES.md) collection of useful learning material for Unreal Engine.
 
 
 # 💻 Tech Stack:

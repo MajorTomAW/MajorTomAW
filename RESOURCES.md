@@ -1,4 +1,4 @@
-# Unreal Engine Ressources
+# Unreal Engine Resources
 
 Credit goes to the [Unreal Source Discord](https://discord.com/invite/unrealsource) and [Tony](https://github.com/Tonetfal).  
 This is just a collection for easy access.

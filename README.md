@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MajorTomAW&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=majortomaw&label=Profile%20views&color=0e75b6&style=flat" alt="majortomaw" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=majortomaw&label=Profile%20views&color=0e75b6&style=flat" alt="majortomaw" /> </p>-->
 
 
 

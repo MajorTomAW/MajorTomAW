@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi! I like working with the Unreal Engine and all the cool things you can do with it.  
+🔭 Hi! I like working with Unreal Engine and all the cool things you can do with it.  
 📝 Check out [this](RESOURCES.md) collection of useful learning material for Unreal Engine.
 
 
@@ -8,10 +8,12 @@
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=MajorTomAW&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>-->
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=MajorTomAW&theme=github_dark&hide_border=true)-->
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=MajorTomAW&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MajorTomAW&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MajorTomAW&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=majortomaw&label=Profile%20views&color=0e75b6&style=flat" alt="majortomaw" /> </p>
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

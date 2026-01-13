@@ -1,9 +1,10 @@
 # 💫 About Me:
 Hi! 
-I am learning UE since 2017-2018.  
+I am learning Unreal Engine / Cpp since 2017-2018.  
 Focused on the Gameplay Ability System, Movement Logic and Tools programming.  
 
-📝 Check out [this](RESOURCES.md) collection of useful learning material for Unreal Engine.
+📝 Check out [this](RESOURCES.md) collection of useful learning material I have collected over my journey.  
+🔗 Also checkout my [Epic Community Profile](https://dev.epicgames.com/community/profile/Ajjw/MajorT).  
 
 Some stuff I have been working on
 - [Modular Gameplay Abilities](https://github.com/MajorTomAW/ModularGameplayAbilities) Unreal Engine Plugin for extending the GAS in a Lyra-like manner.

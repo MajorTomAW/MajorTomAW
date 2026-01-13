@@ -3,7 +3,12 @@ Hi!
 I am learning UE since 2017-2018.  
 Focused on the Gameplay Ability System, Movement Logic and Tools programming.  
 
-Check out [this](RESOURCES.md) collection of useful learning material for Unreal Engine.
+📝 Check out [this](RESOURCES.md) collection of useful learning material for Unreal Engine.
+
+Some stuff I have been working on
+- [Modular Gameplay Abilities](https://github.com/MajorTomAW/ModularGameplayAbilities) Unreal Engine Plugin for extending the GAS in a Lyra-like manner.
+- [Colorized Folders](https://github.com/MajorTomAW/ColorizedFolders) Unreal Engine plugin that colorizes content browser folders according to color schemes.
+- [Slate Mini Map](https://github.com/MajorTomAW/SlateMiniMap) An extremely simple widget to display a minimap texture
 
 
 <!--# 💻 Tech Stack:

@@ -1,6 +1,9 @@
 # 💫 About Me:
-🔭 Hi! I like working with Unreal Engine and all the cool things you can do with it.  
-📝 Check out [this](RESOURCES.md) collection of useful learning material for Unreal Engine.
+Hi! 
+I am learning UE since 2017-2018.  
+Focused on the Gameplay Ability System, Movement Logic and Tools programming.  
+
+Check out [this](RESOURCES.md) collection of useful learning material for Unreal Engine.
 
 
 <!--# 💻 Tech Stack:

@@ -9,7 +9,8 @@ Focused on the Gameplay Ability System, Movement Logic and Tools programming.
 Some stuff I have been working on
 - [Modular Gameplay Abilities](https://github.com/MajorTomAW/ModularGameplayAbilities) Unreal Engine Plugin for extending the GAS in a Lyra-like manner.
 - [Colorized Folders](https://github.com/MajorTomAW/ColorizedFolders) Unreal Engine plugin that colorizes content browser folders according to color schemes.
-- [Slate Mini Map](https://github.com/MajorTomAW/SlateMiniMap) An extremely simple widget to display a minimap texture
+- [Slate Mini Map](https://github.com/MajorTomAW/SlateMiniMap) An extremely simple widget to display a minimap texture.
+- [Wwise Gameplay Cues](https://github.com/MajorTomAW/WwiseGameplayCues) Unreal Engine plugin to support (GAS) GameplayCues with Audiokinetic (Wwise) events.
 
 
 <!--# 💻 Tech Stack:

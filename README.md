@@ -13,7 +13,7 @@ Some stuff I have been working on
 - [Wwise Gameplay Cues](https://github.com/MajorTomAW/WwiseGameplayCues) Unreal Engine plugin to support (GAS) GameplayCues with Audiokinetic (Wwise) events.
 
 Editor Tools Development
-- [Itemization Core](https://github.com/MajorTomAW/ItemizationCore) An inventory system with deep editor integration. Featuring a variety of editor tools.
+- [Itemization Core](https://github.com/MajorTomAW/ItemizationCore) An inventory system with deep editor integration. Featuring a variety of editor tools/features.
 
 <!--# 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)-->

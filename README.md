@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! 
-I am learning Unreal Engine / Cpp since 2017-2018.  
-Focused on the Gameplay Ability System, Movement Logic and Tools programming.  
+I am learning Unreal Engine / C++ since 2017-2018.  
+Focused on the Gameplay Ability System, Movement Logic and Editor Tools programming.  
 
 📝 Check out [this](RESOURCES.md) collection of useful learning material I have collected over my journey.  
 🔗 Also, take a look my [Epic Community Profile](https://dev.epicgames.com/community/profile/Ajjw/MajorT) and [Fab Profile](https://www.fab.com/sellers/MajorT).

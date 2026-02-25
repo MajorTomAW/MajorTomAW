@@ -11,8 +11,6 @@ Some stuff I have been working on
 - [Colorized Folders](https://github.com/MajorTomAW/ColorizedFolders) Unreal Engine plugin that colorizes content browser folders according to color schemes.
 - [Slate Mini Map](https://github.com/MajorTomAW/SlateMiniMap) An extremely simple slate widget to display a minimap texture with world to screen projection.
 - [Wwise Gameplay Cues](https://github.com/MajorTomAW/WwiseGameplayCues) Unreal Engine plugin to support (GAS) GameplayCues with Audiokinetic (Wwise) events.
-
-Editor Tools Development
 - [Itemization Core](https://github.com/MajorTomAW/ItemizationCore) An inventory system with deep editor integration. Featuring a variety of editor tools/features.
 
 <!--# 💻 Tech Stack:

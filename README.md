@@ -27,3 +27,5 @@ Some stuff I have been working on
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+I'm always open for a chat on discord (my tag: ``majort``) 🙂

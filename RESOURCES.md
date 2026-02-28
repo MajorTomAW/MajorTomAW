@@ -43,7 +43,7 @@ Networking & Replication
 >### Custom Movement Component
 >- [Web Archive: Character Movement Component](https://web.archive.org/web/20181010012919/https://docs.unrealengine.com/en-us/Gameplay/Networking/CharacterMovementComponent#advancedtopic:addingnewmovementabilitiestocharactermovement) `web.archive`
 >- [Custom CMC Network Data](https://docs.google.com/document/d/1UO6Ww6Lfpti3YElVdo9uioTUtQJQ9CoSLvd9kF8hvJo/edit#heading=h.irlzv6ukhpxb) `google.docs`
->- [Chinese Crap](https://zhuanlan.zhihu.com/p/114341957) `zhihu`
+>- [Chinese CMC](https://zhuanlan.zhihu.com/p/114341957) `zhihu`
 
 </details>
 <hr>

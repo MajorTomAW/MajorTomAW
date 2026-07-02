@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi! 
-I am learning Unreal Engine / C++ since 2017-2018.  
+I am using the  Unreal Engine / C++ since 2017-2018.  
 Focused on the Gameplay Ability System, Movement Logic and Editor Tools programming.  
 
 📝 Check out [this](RESOURCES.md) collection of useful learning material I have collected over my journey.  

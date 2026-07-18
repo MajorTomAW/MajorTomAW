@@ -1,10 +1,10 @@
-# 💫 About Me:
+# About Me
 Hi! 
 I am using the  Unreal Engine / C++ since 2017-2018.  
 Focused on the Gameplay Ability System, Movement Logic and Editor Tools programming.  
 
-📝 Check out [this](RESOURCES.md) collection of useful learning material I have collected over my journey.  
-🔗 Also, take a look my [Epic Community Profile](https://dev.epicgames.com/community/profile/Ajjw/MajorT) and [Fab Profile](https://www.fab.com/sellers/MajorT).
+Check out [this](RESOURCES.md) collection of useful learning material I have collected over my journey.  
+And take a look my [Epic Community Profile](https://dev.epicgames.com/community/profile/Ajjw/MajorT) and [Fab Profile](https://www.fab.com/sellers/MajorT).
 
 Some stuff I have been working on
 - [Modular Gameplay Abilities](https://github.com/MajorTomAW/ModularGameplayAbilities) Unreal Engine Plugin for extending the GAS in a Lyra-like manner.
@@ -28,4 +28,4 @@ Some stuff I have been working on
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-I'm always open for a chat on discord (my tag: ``majort``) 🙂
+My discord ``majort``
